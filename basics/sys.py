@@ -3,6 +3,9 @@
 2. sys.exit()
 3. sys.stdin, sys.stdout, sys.stderr
 4. sys.path
+5. sys.executable
+6. sys.platform
+7. sys.version
 """
 
 import sys
